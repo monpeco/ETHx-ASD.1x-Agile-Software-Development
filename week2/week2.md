@@ -28,6 +28,24 @@
 8. Express requirements through scenarios
 
 
+### 1. Put the customer at the center
+
+Beck: You will get [better] results with real customers. The are who you
+are trying to please. No customer at all, or a "proxy" got a real 
+customer, leads to waste as you develop features that aren't used, specify
+tests that don't reflect the real acceptance criteria, and lose the chance
+to build a real relationship between the people with the most diverse
+perspective of the project.
+
+XP: embedded customer
+Scrum: product owner
+
+Can customer involvment replace requirements?
+
+
+
+
+
 
 
 

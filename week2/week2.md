@@ -75,6 +75,35 @@ Team chooses own commitments and has access to customers
 
 
 
+### 4. Maintain a sustainable pace
+
+- People perform best if they are not overstressed
+- Developers should not work more than hours weeks
+- If there is overtime or week-end work one week, ther should not be any in the next week
+- XP avoids "crunch time" of traditional projects thanks to short releases cycles
+
+To help achieve these goals
+- Frequent code-merge
+- Always maintain executables, test-covered, high-quality code
+- Constant refactoring, helping keep fresh and alert minds
+- Collaborative style
+- Constant testing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

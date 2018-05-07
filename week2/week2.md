@@ -42,7 +42,17 @@ Scrum: product owner
 
 Can customer involvment replace requirements?
 
+### 2. Accept change
 
+Agile manifesto: "Welcome" change
+
+In standard software engineering, especially object-oriented:
+extendibility
+
+Poppendieck: While in theory OO development produces
+code that is easy to change, in practice OO systems can be
+as difficult to change as any other, especially when information
+hiding is not deeply understood and effecively used.
 
 
 

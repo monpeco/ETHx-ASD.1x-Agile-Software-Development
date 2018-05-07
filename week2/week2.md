@@ -57,6 +57,35 @@ hiding is not deeply understood and effecively used.
 
 
 
+### 3. Let the team self-organize
+
+Traditional view: managers tell workers to do their job
+Agile: managers listen to developers, explain possible actions,
+provide suggestions for improvments
+
+The leader is there to:
+
+* Encourage process
+* Help catch errors
+* Remove impediments
+* Provide support and hepl in difficult situations
+* Make sure that skepticism does not ruin the team's spirit
+
+Team chooses own commitments and has access to customers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

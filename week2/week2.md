@@ -91,7 +91,36 @@ To help achieve these goals
 
 
 
+### 5. Produce minimal software:
+###  5.1 Produce minimal functionality
 
+YAGNI (**Jeffries**): [this principle] reminds us always to work on the story we have, not something we thing we're going to need. Even if we know we're going to need it.
+
+**Poppendieck**: Our sofware systems contain far more features than are ever going to be used. Extra features increase the complexity of the code, driving up costs nonlinearly. If even half of our code is unnecessary - a conservative estimate- the cost is not just double; it's perhaps ten times more expensive that it needs to be.
+
+***The "lean" view***
+
+7 wastes of software development
+
+* Extra/unused features (Overproduction)
+* Partially developed work not releases (Inventory)
+* Intermediate/unused artifacts (Extra Processing)
+* Seeking information (Motion)
+* Escaped defects not caught by test/reviews
+* Waiting (including customer waiting)
+* Handoffs (Transportation)
+
+### 5.2 Devvelop minimal software: product only
+
+**Cunningham**:
+
+You are always taught to do as much as you can. Always put checks in. Always look for exceptions. Always handle the most general case. Always give the user the best advice. Always print a meaningful error message. Always this. Always that. You have so many things in the background that you're supposed to do, there's no room left to think. I say, forget all that and ask yourself, **What's the simplest thing that could passibly work?**
+
+### 5.3 Develop minimal software: code and test
+
+Cockburn: You get not credit for any item that does not result in running tested code. Okay, you also get credit for **final deliverables** such as training materials and delivery documentation.
+
+Poppendieck: The documents, diagrams, and models produced as part of a software development project are often consumables, aids used to produce the system, but not necessarily a part of the final product. **One a working system is delivered, the user may caer little about the intemediate consumables**. Lean principles suggest that every consumable is a candidate for scrutiny. The burden is on the artifact to prove not only that it adds value to the final product, but also that is the most efficient way of achieving that value.
 
 
 

@@ -123,9 +123,45 @@ Cockburn: You get not credit for any item that does not result in running tested
 Poppendieck: The documents, diagrams, and models produced as part of a software development project are often consumables, aids used to produce the system, but not necessarily a part of the final product. **One a working system is delivered, the user may caer little about the intemediate consumables**. Lean principles suggest that every consumable is a candidate for scrutiny. The burden is on the artifact to prove not only that it adds value to the final product, but also that is the most efficient way of achieving that value.
 
 
+---
+
+### Technical principles
+
+6. Develop iteratively
+  6.1 Produce frecuents working scenarios
+
+Horizontally layered clusters
+
+  6.2 Freeze requirements during iterations
+  
+7. Treat test as key resource
+
+  7.1 Do not start any new development until all test pass
+  7.2 Test first
+  
+8. Express requirements through scenarios
 
 
 
+
+### User Story
+
+> A User Story is simply something a user wants
+
+> Stories are more than just text written on an index card but for our purposes here, just think of user story as a bit of text saying something like: "Paginate the monthly sales report", "Change tax calculations on invoices"
+> Many teams have learned the benefits of writting user stories in the form of "As a .. I ... so that ..."
+
+### Standard form for user stories
+
+"As a <user_or_role>
+I want <business_functionality>
+so that <business_justification>"
+
+Example:
+
+"As a customer,
+I want to see a list of my recents orders,
+so that I can track my purchases with a company"
 
 
 

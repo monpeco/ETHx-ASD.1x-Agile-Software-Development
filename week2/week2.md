@@ -164,6 +164,71 @@ I want to see a list of my recents orders,
 so that I can track my purchases with a company"
 
 
+---
+
+### A few method-specific principles
+
+#### Eliminate waste (lean)
+
+* Unnecesary code
+* Unnecesary functionality
+* Delay in process
+* Unclear requirements
+* Insufficient testing
+* Avoidable proceess repetition
+* Bureaucracy
+* Slow internal comunication
+* Partially done code
+* Waiting for other activities, teams, processes
+* Defects, lower quality
+ Managerial overhead
+
+#### Amplify learning (Lean)
+Software development is a continuous learning process. The best approach for improving a software development environment is to amplify and speed up learning:
+* To prevent accumulation of defects, run test as soon as the code is written
+* Instead of adding documentation of planning, try different ideas by writing and testing code and building
+* Present screens to end-users and get their input
+* Enforce short iteration cycles, each including refactoring and integration testing
+* Set up feedback sessions with customers
+
+#### Decide as late as possible (Lean)
+
+Delay as much as possible until they can be made based on facts, not assumptions, and customers better understand their needs.
+
+#### Focus (Crystal)
+
+Focus on individual task, to ensure progress:
+- Control flow progress
+- Deal with interruptions
+  * Two-hours period without interruption
+  * Assign developers to project for at least two days before switching
+
+Focus on direction of project
+
+
+#### Deliver as fast as possible (Lean and Scrum)
+
+#### Multiple design
+
+#### Minimize dependencies
+ (Additive and multiplicative complexity)
+
+#### Personal safety
+* Encourage free expression of ideas
+* Do not ridicule anyone because of a question or suggestion 
+* Build trust within the team
+
+#### Humanity
+
+Reconize that software is developed by people
+Offer developers what the expect:
+* Safety
+* Accomplishment
+* Belonging
+* Growth
+* Intimacy
+
+Agile approaches are indebted here to DeMarco's and Lister's Peopleware 
 
 
 

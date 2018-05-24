@@ -63,3 +63,16 @@ The daily meeting requires every team memer to answer 3 questions:
 
 
 
+### 2. Development
+
+**Pair Programming**
+Two programmers sitting at one machine, thinking out loud.
+
+**Goals**
+* Make thinking process explicit
+* Keep each other on task
+* Brainstorm refinements to systems
+* Clarify ideas
+* Take initiative when other stuck, lowering frustration
+* Hold each other accountable to team practices
+

@@ -58,6 +58,29 @@
 * Choose stories with maximum value
 * With within team, providing guidance and receiving feedback as quickly and accurately as possible.
 
+**Developer**
+**Main job**: turn customer stories into working code.
+
+***Developer obligations:***
+* Know and understand technical issues
+- Create and maintain the system as it evolves
+* Answer: “How will we implement it?”, “How long will it take?” & “What are the risks?”
+* Work with customer to understand his stories
+* From a story, decide implementation
+* Estimate work for each story, based on implementation decisions & experience
+* Identify features that depend on other features
+* Identify risky features and report them to customer
+* Follow team guidelines
+* Implement only what is necessary
+* Communicate constantly with customers
+
+***Developer Rights:***
+* Estimate own work
+* Work sensible & predictable schedule, by scheduling only work that can be done
+* Produce code that meets the customer’s needs, by focusing on testing, refactoring, and customer communication
+* Avoid need to make business decisions, by allowing the customer to make them 
+
+
 **Tracker** (XP, Scrum)
 * Keeps track of the schedule
 * Most important metric

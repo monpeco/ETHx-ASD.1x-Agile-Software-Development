@@ -102,3 +102,12 @@ Rationale:
 * Refactor as needed
 
 
+**Incremental Design**
+Developers work in small steps, validating each before moving to the next 
+
+* Start by creating the simplest design that could possibly work
+* Incrementally add to it as the needs of the software evolve
+* Continuously improve design by reflecting on its strengths and weaknesses
+
+
+

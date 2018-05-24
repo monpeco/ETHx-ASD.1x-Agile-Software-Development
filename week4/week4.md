@@ -76,3 +76,29 @@ Two programmers sitting at one machine, thinking out loud.
 * Take initiative when other stuck, lowering frustration
 * Hold each other accountable to team practices
 
+**Single Code Base** (XP)
+
+Maintain a single code base: avoid branching, even if permitted by configuration management system
+
+
+**Shared Code** (XP)
+Agile methos reject code ownership in favor of code whose responsibility is shared by entire team
+
+Rationale:
+* Most non-trivial features extend across many layers in the application
+* Code ownership creates unnecessary dependencies between team members and delays
+* What counts is implemented features, not personal responsibility
+* Avoid blame game
+* Avoid specialization
+* Minimize risk (team members leaving)
+
+**Leave optimization till last** (XP)
+* Wait until you have finished a story and run your test before you try to optimize your work
+* Only then can you analyze what exactly it is that needs optimizing
+* Do not make work for yourself by trying to anticipate problems before they exist
+
+**Simple Design** (XP)
+* Produce the simplest design that works
+* Refactor as needed
+
+

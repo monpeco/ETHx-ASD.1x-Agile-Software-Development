@@ -29,3 +29,26 @@ One of the UML diagram types
 * Should handle all possible cases
 * Intended to answer any developer questions about customer requirements without further inteaction with customer
 
+**Product Backlog** (Scrum)
+* Maintained throughout project
+* Property of Product Owner
+* Open and editable by anyone
+* Contains backlog items: broad descriptions of all potential features, prioritized by business value
+* Includes estimates of business value
+* Includes estimates of development effort, set by team
+
+Visualized in "task board"
+
+**Task Board, Story Board** (Scrum)
+Used to see and change the state of the tasks of the current sprint: "to do", "in progress", "done".
+
+Benefits
+* Transparency
+* Collaboration
+* Prioritization
+* Focus
+* Self-organization
+* Empiricism
+* "Humility"
+* Morale
+

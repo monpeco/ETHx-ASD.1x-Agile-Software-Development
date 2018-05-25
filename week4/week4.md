@@ -168,7 +168,7 @@ XP teams practice small releases in two important ways:
 
 Difficult to reconcile with other XP principles
 
-**Ten-minutes Build**
+**Ten-minutes Build** (XP)
 Make sure that the build can be completed, through an automatic script, in ten minutes or less, to allow frequent integration. Includes:
 * Compile source code
 * Run tests
@@ -182,6 +182,26 @@ Make sure that the build can be completed, through an automatic script, in ten m
 Make sure the build provides a clear indication of success of failure.
 
 If it has to take more than ten minutes, split the project into subprojects, and replace end-to-ennd funcational tests by unit tests.
+
+
+
+**Weekly Cycle** (XP)
+
+Plan work a week at a time. Have meeting at the beginning of every week:
+1. Review progress, including how actual progress for the previous week matched expected progress.
+2. Have customers pick a week's worth of stories to implemment this week.
+3. Break the stories into tasks.
+
+Start week by writing automated test that will run when the stories are completed. Spend rest completing stories and getting test to pass. The goal es to have deployable software at the end of the week.
+
+The nice thing about a week is that everyone is focused on having the test run on Friday. If you get to Wednesday and it is clear that all thte tests won't be running, you still have time to choose the most valuable stories and complete them.
+
+**Quarterly Cycle**
+Recommendation: reviews of high level systems structure, goals and priorities on a quarterly basis, matching the financial reporting practices of many companies.
+
+Also an opportunity to reflect on the team practice and state of mind, and discuss any major changes in practice and tools.
+
+Period chosen as large enough not to intefere with current concerns, and short enough to allow frequent questioning of practices and updates of long-term goals.
 
 
 

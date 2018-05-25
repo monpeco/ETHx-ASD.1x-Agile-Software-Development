@@ -205,3 +205,63 @@ Period chosen as large enough not to intefere with current concerns, and short e
 
 
 
+### Testing
+
+**Coding Standards** (XP)
+
+Project members all code to the same conventions
+
+**All code must have unit tests** (XP)
+Core idea of XP: 
+* Do not write code without associated unit tests
+* Code that does not pass tests is waste.
+* Do not proceed to next step, e.g.
+  - Next user story
+  - Next release
+
+untill all tests pass
+
+**Test-First Development** (XP)
+* Write tests **before** code
+* The test replaces the specification
+
+**Test-Driven Development** (XP)
+Standard cycle:
+* Add a test
+* Run all test and see if the new one fails
+* Write some code
+* Run the automated tests and see them succeed
+* Refactor code
+
+Expected benefits:
+* Catch bugs early
+* Write more tests
+* Drive the design of the program
+* Replace specifications by tests
+* Use debugger less
+* More modular code
+* Better coverage
+* Improve overall productivity
+
+The basic idea is sound..
+.. but not the replacement fo specifications by test.
+
+Major benefit: keep an up-to-date collection of regresion tests
+
+Requirement that all tests pass can be unrealistic (tests degrade, a non-passing test can be a problem with the test and not with the software).
+
+Basic TDD idea can be applied with specifications! See Contract-Driven Development
+
+**When a bug found, create test before fixing it** (XP)
+
+A bug is not an error in logic, it is a test you forgot to write.
+
+
+**Root-Cause Analysis** (XP, Scrum)
+When finding a defect, do not just fix it but analyze cause and make sure to correct that cause, not just the symptom
+
+**Run acceptance test often and publish results** (XP)
+* Acceptance tests are black box systems tests. Each acceptance test represents some expected result from the system
+* Automate them so then can be run often
+* Publish acceptance test score is to the team
+

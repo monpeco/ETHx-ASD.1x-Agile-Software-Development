@@ -102,12 +102,30 @@ Rationale:
 * Refactor as needed
 
 
-**Incremental Design**
+**Incremental Design** (XP)
 Developers work in small steps, validating each before moving to the next 
 
 * Start by creating the simplest design that could possibly work
 * Incrementally add to it as the needs of the software evolve
 * Continuously improve design by reflecting on its strengths and weaknesses
+
+
+**System Metaphor** (XP)
+A metaphor is meant to be agreed upon by all members of a project as a means of simply explaining the purpose of the project and thus guide the structure of the architecture
+
+**Refactoring** (XP)
+Disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior
+
+Examples refactoring techniques:
+* Encapsulate attibute (field) into function
+* Replace conditional with dynamic binding
+* Extract routine (method)
+* Rename routine or attribute
+* Move routine or attribute to another class
+* Pull up, Pull down
+
+Used in agile methods as a substitute for upfront design
+
 
 
 

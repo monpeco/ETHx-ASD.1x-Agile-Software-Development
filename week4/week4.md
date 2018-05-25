@@ -127,5 +127,61 @@ Examples refactoring techniques:
 Used in agile methods as a substitute for upfront design
 
 
+### Releases
+
+**Only one pair integrates code at a time** (XP)
+* Collective code ownership
+* Development proceeds in parallel
+
+But: to avoid conficts, only one pair is permitted to integrate its changes at any given time
+
+**Continuous Integration** (XP)
+* The combination of frequent releases with relentless testing
+* Keep system fully integrated at all times
+
+Rather than weekly or daily builds, build system several times per day.
+
+Benefits:
+* Integration is easier because little has changed
+* Team learns more quickly
+* Unexpected inteactions rooted out early: conflicts are found while team can still change approach
+* Problematic code more likely to be fixed because more eyes see it sooner
+* Duplication easier to eliminate because visible sooner
+
+**Release early and often**
+* Follows from rejection of "Big Upfront Design"
+* Avoid long architectural phases
+* Refactor
+
+**Small Releases** (XP)
+XP teams practice small releases in two important ways:
+* Release running, tested software, delivering business value chosen by the Customer, every iteration. The Customer can use ths software for any purpose, whether evaluation or even release to end users.
+* Release to end users frequently as well. Web projects release as often as daily, in house projects monthly or more frequently. Even shrink-wrapped products are shipped as often as quarterly.
+
+**Incremental Deployment** (XP, Scrum)
+* Deploy functionality gradually
+* "Big Bang" deployment is risky
+
+**Daily Deployment** (XP)
+* Goes back to Microsoft's Daily Build
+"Chine Shop rules": you break it, you fix it
+
+Difficult to reconcile with other XP principles
+
+**Ten-minutes Build**
+Make sure that the build can be completed, through an automatic script, in ten minutes or less, to allow frequent integration. Includes:
+* Compile source code
+* Run tests
+* Configure registry settings
+* Initialize database schemas
+* Set up web servers
+* Launch processes
+* Build installers
+* Deploy
+
+Make sure the build provides a clear indication of success of failure.
+
+If it has to take more than ten minutes, split the project into subprojects, and replace end-to-ennd funcational tests by unit tests.
+
 
 

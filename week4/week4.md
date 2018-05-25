@@ -265,3 +265,97 @@ When finding a defect, do not just fix it but analyze cause and make sure to cor
 * Automate them so then can be run often
 * Publish acceptance test score is to the team
 
+
+
+### Management
+
+**Scrum of Scrums** (Scrum)
+* Each day after daily scrum
+* Cluster of teams discuss areas of overlap and integration
+* A designated person fro each team attends
+* Agenda as Daily Scrum, plus the following four questions:
+  - What has your team done since we last met?
+  - What will your team do before we meet again?
+  - Is anything slowing your team down?
+  - Are you about to put something in another team's way?
+
+**Whole Team** (XP, Scrum)
+All contribuitors sit together as members of one team:
+* Includes a business representative who provides requirements, sets priorities and steers the project.
+* Includes programmers
+* May include testers
+* May include analysts, helping to define requirements
+* Often includes a coach
+* May include a manager
+
+None of this roles is the exclusive property of just one individual. The best teams have no specialist, only a general contributor with special skills.
+
+**Planning Poker** (Scrum)
+* Present individual stories for estimation
+* Discuss
+* Deck has successive numbers (quasi-fibonacci)
+* Each participant choose estimate from his deck
+* Keep estimates private until everyone has chosen a card
+* Reveal estimates
+* Repeat until consensus
+
+(Variant of Wideband Delphi technique)
+
+**Open workspace** (XP, Crystal)
+Workspace:
+* Organized aroung pairing stations
+* With whiteboard space
+* Locating people according to conversations they should overhear
+* With room for personal effects
+* With a place for private conversations
+
+Expected benefits: improve communication, resolve problems quickly with the benefits of face-to-face interaction (as opposed to e.g. email)
+
+**Osmotic Communication** (Crystal)
+* Team is together in a room and listen to each other
+* Information to flow around it
+* Developer must break concentration
+* Information must quickly throughout the team
+* Questions answered rapidly
+* All team updated on what is happening
+* Reduce need for email and other non-direct communication
+* Facilitate taking over of others' tasks
+
+**Informative workspace** (XP, Scrum)
+Facilitate communication through well-organized workspace:
+* Story borad with user story cards movable from "not started" to "in progress" to "done" column
+* Release charts
+* Iteration burndown charts
+* Automated indicators showing the status of the latest unit-testing run
+* Meeting room with visible charts, whiteboards and flipcharts
+
+**Technical Enviroment** (Crystal)
+* Access to automated tests, configuration management, frequent integration, code repository.
+
+**Team continuity** (XP)
+* Keep the team together and stable
+* Do not reassign people to other teams or theat them as mere resources.
+
+**Shrinking Teams** (XP)
+* As team grows in capability, keep its workload constant but gradually reduce its size
+* This frees people to form more teams
+* When the team has to few members, merge it with another too-small team
+
+**Customer allways available** (XP)
+All project phases require communication with customer, preferably face to face. Assign one or more customers to the development team who:
+* Help write user stories to allow time estimates and assign priority
+* Help make sure most of the desired fuctionality is covered by stories
+* During planning meeting, negotiate selection of user stories for release
+* Negotiate release timing
+* Make decisions that affect their business goals
+* Try systems early to provide feedback
+
+This may seem like a lot of the customer's time, but the customer's time is saved initially by not requiring a detailed requirements specificacions and later by not delivering a uncooperative system.
+
+**Slack** (XP)
+In any plan, include some minor task that can be dropped if you get behind.
+
+Goals:
+* Establish trust in the team's ability to deliver
+* Reduce waste
+

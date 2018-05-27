@@ -84,3 +84,46 @@ What we have seen:
 
 
 
+### Assessment of Agile methods
+
+**The Ugly**
+* Rejection of upfront tasks (analysis paralysis)
+  - Particularly: no upfront requirements
+  - Dismissal of a priori architecture work
+* User stories as a replacement for abstract requirements
+* Test as a replacement for specifications
+* Feature-based development and ignorace of dependencies
+* Method keeper (e.g. Scrum Master) as a separate role
+* Test-driven development (but not the rest of agile's emphasis on test)
+* Dismissal of traditional manager task
+* Dismissal of auxiliary products and non-shippable artifacts
+* Dismissal of priori concern for extendibility
+* Dismissal of priori concern for reusability
+
+**The infifferent**
+* Pair programming
+* Open-space working arrangements
+* Self-organizing teams
+* Maintaining a sustainable pace
+* Producing minimal functionality
+* Planning poker
+* Cross-functional teams
+* Embedded customer
+
+**The good**
+* Acceptance of change
+* Iterative devlopment
+* Emphasis on working code
+* Test as one of the key resources of the projects
+* Constant test regression analysis
+* Notion of velocity
+* No branching
+* Product (but not user stories!) burndown chart
+* Daily meeting
+
+**The brilliant**
+* Short iterations
+* Closed-window rule
+* Refactoring (but not as a substitute for design)
+* Associating a test with every piece of functionality
+* Continuous integration

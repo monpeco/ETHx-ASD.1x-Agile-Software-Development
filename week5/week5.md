@@ -127,3 +127,11 @@ What we have seen:
 * Refactoring (but not as a substitute for design)
 * Associating a test with every piece of functionality
 * Continuous integration
+
+
+**Final observations**
+* Software development is hard; quality is key
+* Lots of good ideas can help; there is no reason to reject those form any particular style of software engineering
+  - Particularly in the absence of credible empirical data
+* Agile will find its place in the history of productive software engineering ideas
+

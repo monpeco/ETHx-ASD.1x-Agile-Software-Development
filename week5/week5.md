@@ -58,4 +58,19 @@ And the ***use cases*** are starting points for the development.
 ![story_board](https://user-images.githubusercontent.com/16638078/40587834-ba493646-61a2-11e8-8548-1a487ecd534c.png)
 
 
+**Velocity** (Scrum)
+
+Measure of progress in a project:
+
+    Number of items delivered
+ 
+* Measured in tasks, user stories, backlog items, ...
+
+**Burntdown chart** (Scrum)
+
+Puclicly displayed chart, update every day, showing for the sprint backlog:
+* Remaining work
+* Progress
+
+
 

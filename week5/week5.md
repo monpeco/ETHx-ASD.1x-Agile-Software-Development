@@ -73,4 +73,14 @@ Puclicly displayed chart, update every day, showing for the sprint backlog:
 * Progress
 
 
+**Bullpen** (XP)
+
+Single, open room
+(See "informative workspace" principle)
+
+What we have seen: 
+* Virtual and material tools that directly support agile concepts
+
+
+
 
